@@ -71,7 +71,6 @@ export class AppComponent implements OnInit {
   }
 
 
-
   // fetchGuestTokenFromBackend(): Promise<string>{
   //   return Promise.resolve( 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJuYW1lIjoibXlBcHBVc2VyIiwiZmlyc3RfbmFtZSI6Ik15QXBwIFVzZXIiLCJsYXN0X25hbWUiOiJNeUFwcCBVc2VyIn0sInJlc291cmNlcyI6W3sidHlwZSI6ImRhc2hib2FyZCIsImlkIjoiMmIyMDk1YWYtZmFkMC00OTEwLTkxNDItNWZhNzVjYmU2MDQ3In1dLCJybHNfcnVsZXMiOlt7ImNsYXVzZSI6IiJ9XSwiaWF0IjoxNjk5OTczNzA3LjU1OTMxNTIsImV4cCI6MTY5OTk3NzMwNy41NTkzMTUyLCJhdWQiOiJodHRwOi8vMC4wLjAuMDo4MDgwLyIsInR5cGUiOiJndWVzdCJ9.kTr7RlSCWi4SIr61QmSjSZn5YO_wRtFOs5cDlTy9C5E');
   // }
